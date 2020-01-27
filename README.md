@@ -6,7 +6,7 @@ The AzureAD PoshBot Plugin for Microsoft Azure Active Directory enables ChatOps 
 ![](https://i2.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2020/01/ChatOps-for-Azure-Active-Directory-640px.png?ssl=1&w=2924)
 
 ## System Requirements
-The PoshBot.Lithnet modules require PoshBot and PowerShell 5.1
+The PoshBot.AzureAD module requires PoshBot, MSAL.PS and PowerShell 5.1
 
 ## Getting started
 Install PoshBot.AzureAD from the Powershell Gallery
