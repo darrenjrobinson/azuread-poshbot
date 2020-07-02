@@ -1,4 +1,7 @@
 # ChatOps for Microsoft Azure Active Directory
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/PoshBot.AzureAD.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/PoshBot.AzureAD) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PoshBot.AzureAD.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/PoshBot.AzureAD)
+
 The AzureAD PoshBot Plugin for Microsoft Azure Active Directory enables ChatOps for Azure Active Directory User Accounts.  
 
 [PoshBot](https://github.com/poshbotio/PoshBot) is a chat bot written in PowerShell. It makes extensive use of classes introduced in PowerShell 5.0. PowerShell modules are loaded into PoshBot and instantly become available as bot commands. PoshBot currently supports connecting to Slack & Microsoft Teams to provide you with awesome ChatOps goodness.
